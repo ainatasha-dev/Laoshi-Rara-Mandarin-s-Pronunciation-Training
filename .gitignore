@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+app.env.example
+.idea/
+*.wav
+!data/tone_samples/.gitkeep
+models/*.pt
+models/*.bin
+models/*.safetensors
+.streamlit/secrets.toml
+*.egg-info/
+.pytest_cache/
+data/pdf_pages/

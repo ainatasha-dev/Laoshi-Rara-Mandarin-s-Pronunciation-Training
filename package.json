@@ -1,0 +1,6 @@
+{
+  "name": "YoPengyou",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Mandarin learning platform with chatbot + HuBERT tone analytics"
+}

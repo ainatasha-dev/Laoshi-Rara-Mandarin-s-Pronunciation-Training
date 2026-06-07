@@ -1,0 +1,134 @@
+{
+  "source": "Bahasa Mandarin Moden Komprehensif 1 / 现代华语综合课本 (一) — Lesson 1 (Dì-yī kè 你好)",
+  "pdf": "MANDARIN MODEN LEVEL 1.pdf",
+  "decks": {
+    "lesson1_tones": {
+      "title": "Lesson 1 · Four Tones (四声)",
+      "cards": [
+        {"id": "ma1", "chinese": "妈", "pinyin": "mā", "english": "mother", "malay": "emak", "note": "Tone 1 — high flat"},
+        {"id": "ma2", "chinese": "麻", "pinyin": "má", "english": "hemp", "malay": "hem", "note": "Tone 2 — rising"},
+        {"id": "ma3", "chinese": "马", "pinyin": "mǎ", "english": "horse", "malay": "kuda", "note": "Tone 3 — dipping"},
+        {"id": "ma4", "chinese": "骂", "pinyin": "mà", "english": "to scold", "malay": "memarahi", "note": "Tone 4 — falling"}
+      ]
+    },
+    "lesson1_pronouns": {
+      "title": "Lesson 1 · Pronouns (代名词)",
+      "cards": [
+        {"id": "wo", "chinese": "我", "pinyin": "wǒ", "english": "I; me", "malay": "saya", "note": "Pronoun"},
+        {"id": "ni", "chinese": "你", "pinyin": "nǐ", "english": "you", "malay": "kamu / awak", "note": "Pronoun"},
+        {"id": "ta", "chinese": "他", "pinyin": "tā", "english": "he; she", "malay": "dia", "note": "Pronoun"},
+        {"id": "women", "chinese": "我们", "pinyin": "wǒmen", "english": "we; us", "malay": "kami / kita", "note": "Plural pronoun"},
+        {"id": "nimen", "chinese": "你们", "pinyin": "nǐmen", "english": "you (plural)", "malay": "kamu semua", "note": "Plural pronoun"},
+        {"id": "tamen", "chinese": "他们", "pinyin": "tāmen", "english": "they", "malay": "mereka", "note": "Plural pronoun"},
+        {"id": "de", "chinese": "的", "pinyin": "de", "english": "possessive particle", "malay": "punya", "note": "Auxiliary — e.g. nǐ de = your"}
+      ]
+    },
+    "lesson1_polite": {
+      "title": "Lesson 1 · Polite Phrases",
+      "cards": [
+        {"id": "xiexie", "chinese": "谢谢", "pinyin": "xièxie", "english": "thank you", "malay": "terima kasih", "note": "Vocabulary 3"},
+        {"id": "bukeqi", "chinese": "不客气", "pinyin": "bú kèqi", "english": "you're welcome", "malay": "sama-sama", "note": "Response to xièxie"},
+        {"id": "duibuqi", "chinese": "对不起", "pinyin": "duìbuqǐ", "english": "sorry", "malay": "maaf", "note": "Vocabulary 4"},
+        {"id": "meiguanxi", "chinese": "没关系", "pinyin": "méi guānxi", "english": "it's alright; no problem", "malay": "tidak mengapa", "note": "Response to duìbuqǐ"},
+        {"id": "zaijian", "chinese": "再见", "pinyin": "zàijiàn", "english": "goodbye", "malay": "jumpa lagi", "note": "Vocabulary 4"}
+      ]
+    },
+    "lesson1_numbers": {
+      "title": "Lesson 1 · Numbers 0–10 (数字)",
+      "cards": [
+        {"id": "ling", "chinese": "零", "pinyin": "líng", "english": "zero", "malay": "sifar", "note": ""},
+        {"id": "yi", "chinese": "一", "pinyin": "yī", "english": "one", "malay": "satu", "note": "Tone 1"},
+        {"id": "er", "chinese": "二", "pinyin": "èr", "english": "two", "malay": "dua", "note": "Tone 4"},
+        {"id": "san", "chinese": "三", "pinyin": "sān", "english": "three", "malay": "tiga", "note": "Tone 1"},
+        {"id": "si", "chinese": "四", "pinyin": "sì", "english": "four", "malay": "empat", "note": "Tone 4"},
+        {"id": "wu", "chinese": "五", "pinyin": "wǔ", "english": "five", "malay": "lima", "note": "Tone 3"},
+        {"id": "liu", "chinese": "六", "pinyin": "liù", "english": "six", "malay": "enam", "note": "Tone 4"},
+        {"id": "qi", "chinese": "七", "pinyin": "qī", "english": "seven", "malay": "tujuh", "note": "Tone 1"},
+        {"id": "ba", "chinese": "八", "pinyin": "bā", "english": "eight", "malay": "lapan", "note": "Tone 1"},
+        {"id": "jiu", "chinese": "九", "pinyin": "jiǔ", "english": "nine", "malay": "sembilan", "note": "Tone 3"},
+        {"id": "shi", "chinese": "十", "pinyin": "shí", "english": "ten", "malay": "sepuluh", "note": "Tone 2"}
+      ]
+    },
+    "lesson1_vocab1": {
+      "title": "Lesson 1 · Vocabulary 1 (生词一)",
+      "cards": [
+        {"id": "xiaojie", "chinese": "小姐", "pinyin": "xiǎojiě", "english": "Miss", "malay": "cik", "note": "Noun — polite address for young woman"},
+        {"id": "ni2", "chinese": "你", "pinyin": "nǐ", "english": "you", "malay": "awak", "note": "Pronoun"},
+        {"id": "hao", "chinese": "好", "pinyin": "hǎo", "english": "good; well; fine", "malay": "baik", "note": "Adjective"},
+        {"id": "nihao", "chinese": "你好", "pinyin": "nǐ hǎo", "english": "hello; how do you do", "malay": "selamat sejahtera", "note": "Greeting"},
+        {"id": "xiansheng", "chinese": "先生", "pinyin": "xiānsheng", "english": "Mr.", "malay": "encik", "note": "Noun — polite address for man"},
+        {"id": "jiao", "chinese": "叫", "pinyin": "jiào", "english": "to be called; known as", "malay": "dipanggil", "note": "Verb — wǒ jiào… = my name is…"},
+        {"id": "shenme", "chinese": "什么", "pinyin": "shénme", "english": "what", "malay": "apa", "note": "Pronoun"}
+      ]
+    },
+    "lesson1_vocab2": {
+      "title": "Lesson 1 · Vocabulary 2 (生词二)",
+      "cards": [
+        {"id": "mingzi", "chinese": "名字", "pinyin": "míngzi", "english": "name", "malay": "nama", "note": "Noun"},
+        {"id": "wo2", "chinese": "我", "pinyin": "wǒ", "english": "I; me", "malay": "saya", "note": "Pronoun"},
+        {"id": "ne", "chinese": "呢", "pinyin": "ne", "english": "how about…; and you?", "malay": "pula", "note": "Particle — nǐ ne? = how about you?"},
+        {"id": "hen", "chinese": "很", "pinyin": "hěn", "english": "very", "malay": "sangat", "note": "Adverb"},
+        {"id": "gaoxing", "chinese": "高兴", "pinyin": "gāoxìng", "english": "happy; glad", "malay": "gembira; senang hati", "note": "Adjective"},
+        {"id": "renshi", "chinese": "认识", "pinyin": "rènshi", "english": "to know; to meet", "malay": "kenal; berkenalan dengan", "note": "Verb"},
+        {"id": "ye", "chinese": "也", "pinyin": "yě", "english": "also; too", "malay": "juga", "note": "Adverb"},
+        {"id": "hengaoxingrenshini", "chinese": "很高兴认识你", "pinyin": "hěn gāoxìng rènshi nǐ", "english": "nice to meet you", "malay": "gembira berkenalan dengan awak", "note": "Dialogue 2 phrase"}
+      ]
+    },
+    "lesson1_vocab3": {
+      "title": "Lesson 1 · Vocabulary 3 (生词三)",
+      "cards": [
+        {"id": "zaoshang", "chinese": "早上", "pinyin": "zǎoshang", "english": "morning", "malay": "pagi", "note": "Noun"},
+        {"id": "zaoshanghao", "chinese": "早上好", "pinyin": "zǎoshang hǎo", "english": "good morning", "malay": "selamat pagi", "note": "Greeting — Dialogue 3"},
+        {"id": "haojiubujian", "chinese": "好久不见", "pinyin": "hǎo jiǔ bú jiàn", "english": "long time no see", "malay": "sudah lama tidak berjumpa", "note": "Fixed phrase"},
+        {"id": "ma", "chinese": "吗", "pinyin": "ma", "english": "question particle (yes/no)", "malay": "kah", "note": "Auxiliary — nǐ hǎo ma?"}
+      ]
+    },
+    "lesson1_vocab4": {
+      "title": "Lesson 1 · Vocabulary 4 (生词四)",
+      "cards": [
+        {"id": "shi", "chinese": "是", "pinyin": "shì", "english": "is; am; are", "malay": "ialah", "note": "Verb — to be"},
+        {"id": "shei", "chinese": "谁", "pinyin": "shéi", "english": "who", "malay": "siapa", "note": "Pronoun"},
+        {"id": "pengyou", "chinese": "朋友", "pinyin": "péngyou", "english": "friend", "malay": "kawan", "note": "Noun"},
+        {"id": "haopengyou", "chinese": "好朋友", "pinyin": "hǎo péngyou", "english": "good friend", "malay": "kawan baik", "note": "Dialogue 4"},
+        {"id": "yao", "chinese": "要", "pinyin": "yào", "english": "want to; going to", "malay": "hendak", "note": "Verb"},
+        {"id": "hui", "chinese": "回", "pinyin": "huí", "english": "to return", "malay": "balik", "note": "Verb — huí jiā = go home"},
+        {"id": "jia", "chinese": "家", "pinyin": "jiā", "english": "home; house", "malay": "rumah", "note": "Noun"},
+        {"id": "le", "chinese": "了", "pinyin": "le", "english": "already (particle)", "malay": "sudah", "note": "Auxiliary — huí jiā le = going home now"},
+        {"id": "huijia", "chinese": "回家", "pinyin": "huí jiā", "english": "go home", "malay": "balik rumah", "note": "Dialogue 4 phrase"},
+        {"id": "nihaoma", "chinese": "你好吗", "pinyin": "nǐ hǎo ma", "english": "how are you?", "malay": "apa khabar?", "note": "Dialogue 3"}
+      ]
+    },
+    "lesson1_vocab5": {
+      "title": "Lesson 1 · Vocabulary 5 (生词五)",
+      "cards": [
+        {"id": "laoshi", "chinese": "老师", "pinyin": "lǎoshī", "english": "teacher", "malay": "cikgu", "note": "Noun"},
+        {"id": "zhongwu", "chinese": "中午", "pinyin": "zhōngwǔ", "english": "noon; midday", "malay": "tengah hari", "note": "Noun"},
+        {"id": "zhongwuhao", "chinese": "中午好", "pinyin": "zhōngwǔ hǎo", "english": "good afternoon (noon)", "malay": "selamat tengah hari", "note": "Greeting"},
+        {"id": "xiawu", "chinese": "下午", "pinyin": "xiàwǔ", "english": "afternoon", "malay": "petang", "note": "Noun"},
+        {"id": "xiawuhao", "chinese": "下午好", "pinyin": "xiàwǔ hǎo", "english": "good afternoon", "malay": "selamat petang", "note": "Greeting"},
+        {"id": "wanshang", "chinese": "晚上", "pinyin": "wǎnshang", "english": "evening; night", "malay": "malam", "note": "Noun"},
+        {"id": "wanshanghao", "chinese": "晚上好", "pinyin": "wǎnshang hǎo", "english": "good evening", "malay": "selamat malam", "note": "Greeting"},
+        {"id": "baba", "chinese": "爸爸", "pinyin": "bàba", "english": "father", "malay": "ayah", "note": "Noun"},
+        {"id": "mama", "chinese": "妈妈", "pinyin": "māma", "english": "mother", "malay": "emak", "note": "Noun"},
+        {"id": "nvshi", "chinese": "女士", "pinyin": "nǚshì", "english": "madam; Ms.", "malay": "puan", "note": "Noun — polite title"},
+        {"id": "huayu", "chinese": "华语", "pinyin": "Huáyǔ", "english": "Mandarin language", "malay": "bahasa Mandarin", "note": "Proper noun"},
+        {"id": "nan", "chinese": "男", "pinyin": "nán", "english": "male; man", "malay": "lelaki", "note": "Noun"},
+        {"id": "nanpengyou", "chinese": "男朋友", "pinyin": "nán péngyou", "english": "boyfriend", "malay": "teman lelaki", "note": "Compound noun"},
+        {"id": "nv", "chinese": "女", "pinyin": "nǚ", "english": "female; woman", "malay": "perempuan", "note": "Noun"},
+        {"id": "nvpengyou", "chinese": "女朋友", "pinyin": "nǚ péngyou", "english": "girlfriend", "malay": "teman wanita", "note": "Compound noun"},
+        {"id": "henhao", "chinese": "很好", "pinyin": "hěn hǎo", "english": "very well; very good", "malay": "sangat baik", "note": "Dialogue 3 response — wǒ hěn hǎo"}
+      ]
+    },
+    "lesson1_phrases": {
+      "title": "Lesson 1 · Key Phrases (会话)",
+      "cards": [
+        {"id": "nijiaoshenmemingzi", "chinese": "你叫什么名字", "pinyin": "nǐ jiào shénme míngzi", "english": "what is your name?", "malay": "apa nama awak?", "note": "Dialogue 1"},
+        {"id": "wojiaolh", "chinese": "我叫李慧欣", "pinyin": "wǒ jiào Lǐ Huì Xīn", "english": "my name is Li Hui Xin", "malay": "nama saya Li Hui Xin", "note": "Example answer"},
+        {"id": "wojiaolm", "chinese": "我叫陆曼", "pinyin": "wǒ jiào Lùmàn", "english": "my name is Luman", "malay": "nama saya Luqman", "note": "Example answer"},
+        {"id": "tashishui", "chinese": "他是谁", "pinyin": "tā shì shéi", "english": "who is he?", "malay": "siapa dia?", "note": "Dialogue 4"},
+        {"id": "tashiwodehaopengyou", "chinese": "他是我的好朋友", "pinyin": "tā shì wǒ de hǎo péngyou", "english": "he is my good friend", "malay": "dia kawan baik saya", "note": "Dialogue 4"},
+        {"id": "womenyaohuijiale", "chinese": "我们要回家了", "pinyin": "wǒmen yào huí jiā le", "english": "we are going home now", "malay": "kami hendak balik rumah", "note": "Dialogue 4"}
+      ]
+    }
+  }
+}
