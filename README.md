@@ -1,6 +1,4 @@
-# YoPengyou 好朋友
-
-An intelligent Mandarin language learning prototype for **CSC649**, combining:
+An intelligent Mandarin language learning prototype combining:
 
 - **NLP / Chatbot** — rule-based Level 1 dialogue lessons
 - **Speech / Deep Learning** — HuBERT fine-tuned tone classifier (T1–T4)
@@ -31,7 +29,7 @@ yopengyou/
 
 ## Open in PyCharm
 
-1. **File → Open** → select `C:\Users\aena zam\Projects\yopengyou`
+1. **File → Open** 
 2. PyCharm will detect it as a Python project
 3. **File → Settings → Project → Python Interpreter**
 4. Click **Add Interpreter → Add Local Interpreter → Virtualenv**
